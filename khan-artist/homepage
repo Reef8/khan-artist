@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khan Artist</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+    <h1>Khan Artist</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="bio.html">About</a>
+    </nav>
+</header>
+
+<section>
+    <h2>Gallery</h2>
+    <div class="gallery">
+        <!-- Example artworks -->
+        <a href="artworks/artwork1.html"><img src="images/artwork1.jpg" alt="Artwork 1"></a>
+        <a href="artworks/artwork2.html"><img src="images/artwork2.jpg" alt="Artwork 2"></a>
+        <a href="artworks/artwork3.html"><img src="images/artwork3.jpg" alt="Artwork 3"></a>
+        <!-- Add more as needed -->
+    </div>
+</section>
+
+<footer>
+    &copy; 2025 Sharif Khan | All Rights Reserved
+</footer>
+
+</body>
+</html>
