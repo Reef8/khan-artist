@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Khan Artist</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>About Sharif Khan</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="bio.html">About</a>
+    </nav>
+</header>
+
+<section>
+    <h2>Bio</h2>
+    <p>Hello! I'm Sharif Khan, an artist passionate about creating unique pieces inspired by squash and other natural forms. This website showcases my portfolio. Click on any artwork to see more details about the piece.</p>
+</section>
+
+<footer>
+    &copy; 2025 Sharif Khan | All Rights Reserved
+</
