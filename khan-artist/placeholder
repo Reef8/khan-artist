@@ -1,0 +1,6 @@
+khan-artist/
+├─ index.html          ← homepage
+├─ style.css           ← styling
+├─ bio.html            ← bio/about page
+├─ images/             ← all your artwork images
+└─ artworks/           ← individual artwork pages
